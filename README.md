@@ -1,5 +1,16 @@
 # Artifacts of BankSnoop
-Anonymous artifact submission to ACM MobiCom 2023 for paper "Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning"
+ACM MobiCom 2023 paper "Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning"
+
+## Citation
+The code and datasets of this project are made available for non-commercial, academic research only. Please cite the following papers:
+```
+@inproceedings{ni2023exploiting,
+  title={Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning},
+  author={Ni, Tao and Li, Jianfeng and Zhang, Xiaokuan and Zuo, Chaoshun and Wang, Wubing and Xu, Weitao and Luo, Xiapu and Zhao, Qingchuan},
+  booktitle={The 29th Annual International Conference On Mobile Computing And Networking},
+  year={2023}
+}
+```
 
 ## Content
 
@@ -57,7 +68,7 @@ Prototype of the attacking device, circuit design, and the PCB producing file.
 
 ## Ethical Consideration
 
-<ins>This anonymous repository is used for artifact submission only.</ins> This work takes ethical considerations seriously, and it has been approved by our IRB to collect data from human participants.
+<ins>This repository is used for artifact submission only.</ins> This work takes ethical considerations seriously, and it has been approved by our IRB to collect data from human participants.
 In addition, sensitive information, including screen-unlocking passcodes and in-app sensitive user inputs, are generated randomly for effectiveness evaluation only.
 The user accounts involved are our own accounts.
 BankSnoop and our custom-built attacking device have <ins>NEVER</ins> been released to any other parties.
