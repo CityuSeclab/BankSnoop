@@ -7,7 +7,8 @@ The code and datasets of this project are made available for non-commercial, aca
 @inproceedings{ni2023exploiting,
   title={Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning},
   author={Ni, Tao and Li, Jianfeng and Zhang, Xiaokuan and Zuo, Chaoshun and Wang, Wubing and Xu, Weitao and Luo, Xiapu and Zhao, Qingchuan},
-  booktitle={The 29th Annual International Conference On Mobile Computing And Networking},
+  booktitle={Proceedings of the 29th Annual International Conference on Mobile Computing and Networking},
+  pages={1--15},
   year={2023}
 }
 ```
